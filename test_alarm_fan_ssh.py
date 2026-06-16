@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Формат команды: ./script.py <host> <user> '' <slot>"
+# Формат команды: ./script.py <host> <user> <password> <slot>"
 
 # Данный скрипт написан под Big-Eendian архитектуру.
 # Для Little-Endian необходимо сделать переворот данных при работе по I2C
